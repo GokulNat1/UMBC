@@ -1,0 +1,16 @@
+
+Showing All Errors Only
+
+Prepare build
+note: Using new build system
+note: Building targets in parallel
+note: Planning build
+note: Using build description from memory
+
+
+
+Build target WordClouds of project WordClouds with configuration Debug
+
+
+
+Build succeeded    5/4/20, 4:41 PM    0.1 seconds
